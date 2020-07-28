@@ -1,0 +1,13 @@
+C:\Users\wojo1\Desktop\Programowanie\C#_moje\Learning\bin\Debug\netcoreapp3.1\Learning.exe
+C:\Users\wojo1\Desktop\Programowanie\C#_moje\Learning\bin\Debug\netcoreapp3.1\Learning.deps.json
+C:\Users\wojo1\Desktop\Programowanie\C#_moje\Learning\bin\Debug\netcoreapp3.1\Learning.runtimeconfig.json
+C:\Users\wojo1\Desktop\Programowanie\C#_moje\Learning\bin\Debug\netcoreapp3.1\Learning.runtimeconfig.dev.json
+C:\Users\wojo1\Desktop\Programowanie\C#_moje\Learning\bin\Debug\netcoreapp3.1\Learning.dll
+C:\Users\wojo1\Desktop\Programowanie\C#_moje\Learning\bin\Debug\netcoreapp3.1\Learning.pdb
+C:\Users\wojo1\Desktop\Programowanie\C#_moje\Learning\obj\Debug\netcoreapp3.1\Learning.csprojAssemblyReference.cache
+C:\Users\wojo1\Desktop\Programowanie\C#_moje\Learning\obj\Debug\netcoreapp3.1\Learning.csproj.CoreCompileInputs.cache
+C:\Users\wojo1\Desktop\Programowanie\C#_moje\Learning\obj\Debug\netcoreapp3.1\Learning.AssemblyInfoInputs.cache
+C:\Users\wojo1\Desktop\Programowanie\C#_moje\Learning\obj\Debug\netcoreapp3.1\Learning.AssemblyInfo.cs
+C:\Users\wojo1\Desktop\Programowanie\C#_moje\Learning\obj\Debug\netcoreapp3.1\Learning.dll
+C:\Users\wojo1\Desktop\Programowanie\C#_moje\Learning\obj\Debug\netcoreapp3.1\Learning.pdb
+C:\Users\wojo1\Desktop\Programowanie\C#_moje\Learning\obj\Debug\netcoreapp3.1\Learning.genruntimeconfig.cache
