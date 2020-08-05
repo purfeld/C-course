@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29920.165
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning", "Learning.csproj", "{91D06822-3482-4F5C-9EE2-54CC6E3A5300}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Learning", "Learning.csproj", "{91D06822-3482-4F5C-9EE2-54CC6E3A5300}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentDiary", "..\StudentDiary\StudentDiary.csproj", "{D054C3E8-0374-474A-9489-C582624E7A9A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{91D06822-3482-4F5C-9EE2-54CC6E3A5300}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91D06822-3482-4F5C-9EE2-54CC6E3A5300}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91D06822-3482-4F5C-9EE2-54CC6E3A5300}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D054C3E8-0374-474A-9489-C582624E7A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D054C3E8-0374-474A-9489-C582624E7A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D054C3E8-0374-474A-9489-C582624E7A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D054C3E8-0374-474A-9489-C582624E7A9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
